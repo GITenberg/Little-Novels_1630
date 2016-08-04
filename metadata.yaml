@@ -1,0 +1,35 @@
+_repo: Little-Novels_1630
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Collins, Wilkie
+    alias: Collins, William Wilkie
+    birthdate: 1824
+    deathdate: 1889
+    gutenberg_agent_id: '98'
+    url: http://www.gutenberg.org/2009/agents/98
+    wikipedia: http://en.wikipedia.org/wiki/Wilkie_Collins
+description: Little Novels, as the title suggests, contains several short novellas
+  meant to be read "just before bed." Mystery stories in this volume include "Mrs.
+  Zant and the Ghost," "Miss Bertha and the Yankee," "Mr. Policeman and the Cook,"
+  "Miss MIna and the Groom," "Mr. Lismore and the Widow" and more.
+gutenberg_issued: '1999-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1630'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'England -- Social life and customs -- 19th century -- Fiction'
+- GITenberg
+tableOfContents: Mrs. Zant and the ghost -- Miss Morris and the stranger -- Mr. Cosway
+  and the landlady -- Mr. Medhurst and the princess -- Mr. Lismore and the widow --
+  Miss Jeromette and the clergyman -- Miss Mina and the groom -- Mr. Lepel and the
+  housekeeper -- Mr. Captain and the nymph -- Mr. Marmaduke and the minister -- Mr.
+  Percy and the prophet -- Miss Bertha and the Yankee -- Miss Dulane and my lord --
+  Mr. Policeman and the cook.
+title: Little Novels
+url: http://www.gutenberg.org/ebooks/1630
